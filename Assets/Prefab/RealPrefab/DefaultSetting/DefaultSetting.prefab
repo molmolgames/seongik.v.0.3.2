@@ -2942,6 +2942,11 @@ PrefabInstance:
       propertyPath: enemyController
       value: 
       objectReference: {fileID: 0}
+    - target: {fileID: 810004881079076525, guid: 53e06015cc37ecf49b14696e34d58632,
+        type: 3}
+      propertyPath: m_IsTrigger
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 819037479830012441, guid: 53e06015cc37ecf49b14696e34d58632,
         type: 3}
       propertyPath: gameManger
@@ -2952,6 +2957,11 @@ PrefabInstance:
       propertyPath: enemyController
       value: 
       objectReference: {fileID: 5324425608372377003}
+    - target: {fileID: 1324405608788717130, guid: 53e06015cc37ecf49b14696e34d58632,
+        type: 3}
+      propertyPath: m_IsTrigger
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 1481340669645528539, guid: 53e06015cc37ecf49b14696e34d58632,
         type: 3}
       propertyPath: gameManger
@@ -3002,6 +3012,11 @@ PrefabInstance:
       propertyPath: enemyController
       value: 
       objectReference: {fileID: 5324425608372377003}
+    - target: {fileID: 2043190671639945300, guid: 53e06015cc37ecf49b14696e34d58632,
+        type: 3}
+      propertyPath: m_IsTrigger
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 2662824129228130551, guid: 53e06015cc37ecf49b14696e34d58632,
         type: 3}
       propertyPath: m_Enabled
@@ -3077,6 +3092,11 @@ PrefabInstance:
       propertyPath: CircleSkillImage
       value: 
       objectReference: {fileID: 534438328624478817}
+    - target: {fileID: 5384336988724211956, guid: 53e06015cc37ecf49b14696e34d58632,
+        type: 3}
+      propertyPath: m_IsTrigger
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 6161016577052732598, guid: 53e06015cc37ecf49b14696e34d58632,
         type: 3}
       propertyPath: Player
